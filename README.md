@@ -7,4 +7,5 @@ This plguin allow you to show a registration form for a specific page, It is rea
 4. 
 
 If have any question, feel free to contact me via email: phplaw@gmail.com or Skype: conan_tpn
-You also can read learn something with this [Wordpress Tips & Trick for begginer](https://github.com/phplaw/wordpress-tips-tricks)
+
+If you are wordpress beginer, you can also learn something with wordpress from  this repository [Wordpress Tips & Trick for begginer](https://github.com/phplaw/wordpress-tips-tricks)
