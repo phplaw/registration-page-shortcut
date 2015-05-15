@@ -1,4 +1,4 @@
-# registration-page-shortcut
+# Registration Ppage Shortcut
 Wordpress Rregistration Page Shortcut
 This plguin allow you to show a registration form for a specific page, It is really simple just add [registration_form] shortcut to content of a page.
 
